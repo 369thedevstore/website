@@ -1,0 +1,19 @@
+<svg width="768" height="768" viewBox="0 0 768 768" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">The Dev Store logo</title>
+  <desc id="desc">Red, black, and white stacked logo reading The Dev Store, Built to Solve.</desc>
+  <rect width="768" height="768" fill="#FFFFFF"/>
+  <g transform="translate(116 188)">
+    <g font-family="Arial Black, Impact, sans-serif" font-weight="900" letter-spacing="-0.06em" text-anchor="middle">
+      <text x="176" y="124" font-size="126" fill="#FF2A23">THE</text>
+      <text x="394" y="124" font-size="126" fill="#000000">DEV</text>
+      <text x="204" y="250" font-size="132" fill="#FF2A23">ST</text>
+      <text x="354" y="250" font-size="132" fill="#000000">O</text>
+      <text x="454" y="250" font-size="132" fill="#FF2A23">RE.</text>
+    </g>
+    <g font-family="Arial Black, Impact, sans-serif" font-size="44" font-weight="900" letter-spacing="0.22em" text-anchor="middle">
+      <text x="176" y="340" fill="#000000">BUILT</text>
+      <text x="286" y="340" fill="#FF2A23">TO</text>
+      <text x="398" y="340" fill="#000000">SOLVE</text>
+    </g>
+  </g>
+</svg>
