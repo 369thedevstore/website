@@ -23,7 +23,7 @@ export default function HomePage() {
     <main className="page-shell">
       <section className="page-frame">
         <header className="topbar">
-          <img className="brand-logo" src="/logo.svg" alt="The Dev Store logo" />
+          <img className="brand-logo" src="/images/finals-pakka.svg" alt="The Dev Store logo" />
           <a className="topbar-link" href="#enquiry">
             Start enquiry
           </a>
@@ -32,7 +32,7 @@ export default function HomePage() {
         <div className="content-grid">
           <section className="hero-panel">
             <div className="hero-logo-wrap">
-              <img className="hero-logo" src="/logo.svg" alt="The Dev Store logo" />
+              <img className="hero-logo" src="/images/finals-pakka.svg" alt="The Dev Store logo" />
             </div>
             <p className="hero-copy">
               A focused landing page built for Vercel, with an enquiry form that stores leads in
